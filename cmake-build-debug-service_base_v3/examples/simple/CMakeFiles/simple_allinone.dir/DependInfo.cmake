@@ -1,0 +1,28 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/tmp/tmp.6hsHnao3kn/examples/simple/allinone/allinone.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/allinone/allinone.cc.o"
+  "/tmp/tmp.6hsHnao3kn/examples/simple/chargen/chargen.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/chargen/chargen.cc.o"
+  "/tmp/tmp.6hsHnao3kn/examples/simple/daytime/daytime.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/daytime/daytime.cc.o"
+  "/tmp/tmp.6hsHnao3kn/examples/simple/discard/discard.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/discard/discard.cc.o"
+  "/tmp/tmp.6hsHnao3kn/examples/simple/echo/echo.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/echo/echo.cc.o"
+  "/tmp/tmp.6hsHnao3kn/examples/simple/time/time.cc" "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/examples/simple/CMakeFiles/simple_allinone.dir/time/time.cc.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/muduo/net/CMakeFiles/muduo_net.dir/DependInfo.cmake"
+  "/tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3/muduo/base/CMakeFiles/muduo_base.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

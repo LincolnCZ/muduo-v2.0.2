@@ -1,0 +1,10 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/tmp.6hsHnao3kn
+-- Boost version: 1.58.0
+-- Could NOT find Protobuf (missing:  PROTOBUF_LIBRARY PROTOBUF_INCLUDE_DIR) 
+-- Could NOT find CURL (missing:  CURL_LIBRARY CURL_INCLUDE_DIR) 
+-- found zlib
+-- found thrift
+-- CXX_FLAGS = -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.6hsHnao3kn/cmake-build-debug-service_base_v3
